@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 190" width="160" height="190">
+  <rect width="160" height="190" fill="white"/>
+  
+  <rect x="48" y="110" width="66" height="72" fill="#F5C5A3" stroke="#C87840" stroke-width="1.8" rx="10"/>
+  <rect x="60" y="40" width="12" height="74" fill="#F5C5A3" stroke="#C87840" stroke-width="1.5" rx="6" transform="rotate(-12 66 110)"/><rect x="62" y="40" width="8" height="8" fill="#F8DDD0" rx="6"/>
+  <rect x="76" y="36" width="12" height="78" fill="#F5C5A3" stroke="#C87840" stroke-width="1.5" rx="6"/><rect x="78" y="36" width="8" height="8" fill="#F8DDD0" rx="6"/>
+  <rect x="92" y="40" width="12" height="74" fill="#F5C5A3" stroke="#C87840" stroke-width="1.5" rx="6" transform="rotate(12 98 110)"/><rect x="94" y="40" width="8" height="8" fill="#F8DDD0" rx="6"/>
+  <ellipse cx="116" cy="116" rx="10" ry="8" fill="#EDAB82"/>
+  <ellipse cx="56" cy="130" rx="11" ry="16" fill="#EDAB82" stroke="#C87840" stroke-width="1.5"/>
+
+  <text x="80" y="182" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#888888" text-anchor="middle">W</text>
+</svg>

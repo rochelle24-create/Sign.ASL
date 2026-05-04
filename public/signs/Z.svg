@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 190" width="160" height="190">
+  <rect width="160" height="190" fill="white"/>
+  
+  <rect x="50" y="112" width="64" height="70" fill="#F5C5A3" stroke="#C87840" stroke-width="1.8" rx="12"/>
+  <rect x="84" y="46" width="13" height="70" fill="#F5C5A3" stroke="#C87840" stroke-width="1.5" rx="7"/><rect x="86" y="46" width="9" height="8" fill="#F8DDD0" rx="7"/>
+  <ellipse cx="68" cy="114" rx="9" ry="7" fill="#EDAB82"/>
+  <ellipse cx="112" cy="115" rx="10" ry="8" fill="#EDAB82"/>
+  <ellipse cx="120" cy="120" rx="9" ry="7" fill="#EDAB82"/>
+  <ellipse cx="56" cy="130" rx="12" ry="17" fill="#EDAB82" stroke="#C87840" stroke-width="1.5"/>
+  <path d="M 90 46 L 128 46 L 78 78 L 128 78" fill="none" stroke="#5B9BD5" stroke-width="2.8" stroke-linejoin="round" marker-end="url(#az)"/>
+  <defs><marker id="az" markerWidth="7" markerHeight="7" refX="3" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#5B9BD5"/></marker></defs>
+
+  <text x="80" y="182" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#888888" text-anchor="middle">Z</text>
+</svg>

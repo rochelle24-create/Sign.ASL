@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 190" width="160" height="190">
+  <rect width="160" height="190" fill="white"/>
+  
+  <rect x="50" y="90" width="62" height="75" fill="#F5C5A3" stroke="#C87840" stroke-width="1.8" rx="12"/>
+  <ellipse cx="52" cy="110" rx="14" ry="20" fill="#F5C5A3" stroke="#C87840" stroke-width="1.5"/>
+  <ellipse cx="50" cy="102" rx="10" ry="12" fill="#EDAB82"/>
+  <ellipse cx="67" cy="92" rx="10" ry="7" fill="#F5C5A3"/>
+  <ellipse cx="83" cy="90" rx="10" ry="7" fill="#F5C5A3"/>
+  <ellipse cx="97" cy="91" rx="9" ry="7" fill="#F5C5A3"/>
+  <ellipse cx="109" cy="93" rx="8" ry="7" fill="#F5C5A3"/>
+  <rect x="50" y="90" width="62" height="75" fill="none" stroke="#C87840" stroke-width="1.8" rx="12"/>
+
+  <text x="80" y="182" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#888888" text-anchor="middle">A</text>
+</svg>
